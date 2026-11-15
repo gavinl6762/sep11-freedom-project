@@ -12,8 +12,8 @@ The main goal was to build an interactive ball v ball combat game that uses math
 Some skills that I practiced and gained was using objects and different shapes that I tinkered with using collisions and bouncing, by using jsbin I was able to see reactions of the code where I was able to see the objects crash using ```collisionStart```. Also, by reading and testing the vectors, speed ```Vector.magnitude```, gravity ```engine.world.gravity```, and bounciness ```restitution```, it helped me understand more on how objects interacts.
 
 #### Sources 
-brm.io/matter-js - main homepage 
-brm.io/matter-js/docs - the official guide that covers all properties
+```brm.io/matter-js``` - main homepage 
+```brm.io/matter-js/docs``` - the official guide that covers all properties
 
 [Next](entry02.md)
 
